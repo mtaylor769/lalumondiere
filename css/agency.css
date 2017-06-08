@@ -152,7 +152,9 @@ fieldset[disabled] .btn-xl.active {
 }
 .navbar-custom .navbar-brand {
   color: #e33;
+  text-shadow: #fff 1px 1px;
   font-family: "Kaushan Script", "Helvetica Neue", Helvetica, Arial, cursive;
+  font-weight: bold;
 }
 .navbar-custom .navbar-brand:hover,
 .navbar-custom .navbar-brand:focus,
